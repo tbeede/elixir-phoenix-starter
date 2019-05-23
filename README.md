@@ -1,3 +1,5 @@
+ ![picture](hello/assets/static/images/phoenix.png) 
+
 # elixir-phoenix-starter
 A starter project to test out Elixir alongside the Phoenix framework.
 
